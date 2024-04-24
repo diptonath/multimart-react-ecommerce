@@ -1,3 +1,2 @@
-# Maltimart Ecommerce
+Maltimart React Ecommerce Project
 
-## 📌 Live Demo
